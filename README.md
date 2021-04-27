@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DnagerD4N1
-- 👀 I’m interested in Python and BASIC.
+- 👀 I’m interested in Python and Web Programming.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me jordanovdanny@gmail.com
 
