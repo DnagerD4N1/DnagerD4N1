@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DnagerD4N1
 - 👀 I’m interested in Python and Web Programming.
 - 🌱 I’m currently learning Python
-- 📫 How to reach me jordanovdanny@gmail.com
+- 📫 You can reach me at: jordanovdanny@gmail.com
 
 <!---
 DnagerD4N1/DnagerD4N1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
