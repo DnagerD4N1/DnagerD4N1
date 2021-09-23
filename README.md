@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DnagerD4N1
+- 👋 Hi, I’m @DangerD4N1
 - 👀 I’m interested in Python and Web Programming.
 - 🌱 I’m currently learning Python
 - 📫 You can reach me at: jordanovdanny@gmail.com
